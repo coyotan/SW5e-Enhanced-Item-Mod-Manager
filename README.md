@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v11-informational)
+![Latest Release](https://img.shields.io/github/v/release/coyotan/SW5e-Enhanced-Item-Mod-Manager)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/coyotan/SW5e-Enhanced-Item-Mod-Manager/latest/module.zip) 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
