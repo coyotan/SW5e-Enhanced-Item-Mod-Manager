@@ -1,0 +1,21 @@
+.mod-slots-container {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.mod-slots-container h3 {
+    border-bottom: 1px solid #7a7971;
+    margin-bottom: 10px;
+}
+
+.mod-delete {
+    color: #ff5555;
+    cursor: pointer;
+}
+
+.mod-delete:hover {
+    color: #ff0000;
+    text-shadow: 0 0 5px red;
+}

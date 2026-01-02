@@ -1,0 +1,33 @@
+{
+  "name": "sw5e-mod-manager",
+  "title": "SW5e Enhanced Item Mod Manager",
+  "description": "Allows SW5e weapon chassis to act as containers for modifications with descriptions. Does not dynamically update stats.",
+  "version": "0.9.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "scripts": [
+    "sw5e-mod-manager.js"
+  ],
+  "styles": [
+    "sw5e-mod-manager.css"
+  ],
+  "authors": [
+    {
+      "name": "Coyotan & Gemini (Google AI)",
+      "url": "https://github.com/coyotan/SW5e-Enhanced-Item-Mod-Manager",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.3.0",
+          "verified": "4.3.5"
+        }
+      }
+    ]
+  }
+}
