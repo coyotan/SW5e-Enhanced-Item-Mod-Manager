@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Foundry-v11-informational)
+![Latest Release Download Count](https://img.shields.io/github/downloads/coyotan/SW5e-Enhanced-Item-Mod-Manager/latest/module.zip) 
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 ## SW5e Enhanced Item Modification Manager
 ----
 This module is built to work with the SW5e module (Not system) that plugs into DND5e for Foundry VTT 12.
